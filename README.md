@@ -47,7 +47,7 @@ conda activate SDDPM
 
 2. Installing dependencies.
 ```shell
-git clone https://github.com/AndyCao1125/SDDPM.git
+git clone https://github.com/SageCao1125/SDDPM.git
 cd SDDPM
 pip install -r requirements.txt
 ```
